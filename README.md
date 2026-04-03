@@ -1,4 +1,4 @@
-<img align="center" height="200" width="800" src="https://github.com/your-username/your-repo/blob/main/cover.jpg" />
+<img align="center" height="200" width="800" src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4366.svg" />
 
 <h1 align="center">Hi, I'm Abdelrahman Ibrahim 👋</h1>
 <h3 align="center">AI Engineer | Data Scientist | Building End-to-End Intelligent Systems</h3>
