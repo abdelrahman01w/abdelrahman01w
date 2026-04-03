@@ -100,3 +100,21 @@
 </p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=abdelrahman01w&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman01w&theme=tokyo-night&hide_border=true"/>
+
+</div>
