@@ -1,6 +1,8 @@
-## 🙋‍♂️ About Me:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4369.svg">
+</p>
 
-<img align="center" height="200" width="800" src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4366.svg" />
+## 🙋‍♂️ About Me:
 
 - 👋 I'm **Abdelrahman Ibrahim**, an **AI Engineer** passionate about building intelligent systems  
 - 🧠 Specialized in **Machine Learning, Deep Learning, and Data Science**  
@@ -88,7 +90,7 @@
 ## 🔗 Contact with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/abdelrahmanibrahim8" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahmanibrahim8/?locale=en" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="abdelrahman87c@gmial.com" target="_blank">
