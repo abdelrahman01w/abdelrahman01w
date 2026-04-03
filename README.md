@@ -10,36 +10,56 @@
 - 🎯 Goal: Build impactful AI systems and work on real-world challenges  
 
 ---
-
 ## 🧠 Skills:
+
+### 👨‍💻 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,flutter" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
 
 ### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
 </p>
 
-### 👁️ Computer Vision & NLP
+### 📊 Data Analysis & Visualization
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40"/>
 </p>
 
-### 💻 Programming & Tools
+### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux,vscode" height="40"/>
-</p>
-
-### 📊 Data & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40"/>
 </p>
 
 ---
+
+### 🧠 Core Knowledge & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Applied%20Mathematics-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear%20Algebra-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Insights-795548?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Researching-607d8b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-black?style=for-the-badge"/>
+</p>---
 
 ## 🔬 Projects:
 
