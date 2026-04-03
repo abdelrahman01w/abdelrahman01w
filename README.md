@@ -12,6 +12,29 @@
 - 🎯 Goal: Build impactful AI systems and work on real-world challenges  
 
 ---
+
+### 🧠 Core Knowledge & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Applied%20Mathematics-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear%20Algebra-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Insights-795548?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Researching-607d8b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-black?style=for-the-badge"/>
+</p>
+
+---
 ## 🧠 Skills:
 
 ### 👨‍💻 Programming & Development
@@ -47,28 +70,6 @@
   <img src="https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge"/>
 </p>
 ---
-
-### 🧠 Core Knowledge & Concepts
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Applied%20Mathematics-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linear%20Algebra-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Insights-795548?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Researching-607d8b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-black?style=for-the-badge"/>
-</p>---
-
 ## 🔬 Projects:
 
 ### 🤖 AI Projects
