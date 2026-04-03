@@ -14,30 +14,36 @@
 
 ### 👨‍💻 Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,flutter" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,flutter" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
+
+---
 
 ### 🤖 AI / Machine Learning
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
 </p>
+
+---
 
 ### 📊 Data Analysis & Visualization
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40"/>
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40"/>
 </p>
 
+---
+
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
+  <img src="https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge"/>
 </p>
-
 ---
 
 ### 🧠 Core Knowledge & Concepts
@@ -73,10 +79,6 @@
   - Image classification / object detection project  
   - Tech: OpenCV, Deep Learning  
 
-- 💬 **NLP Project**
-  - Text processing / sentiment analysis / chatbot  
-  - Tech: Python, NLP  
-
 - 📊 **Data Analysis Project**
   - Data cleaning, visualization, and insights extraction  
   - Tech: Pandas, Matplotlib  
@@ -86,24 +88,15 @@
 ## 🔗 Contact with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/abdelrahmanibrahim8" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:YOUR-EMAIL" target="_blank">
+  <a href="abdelrahman87c@gmial.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <a href="https://github.com/abdelrahman01w" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=midnight-purple" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=midnight-purple" height="150"/>
-
-</div>
